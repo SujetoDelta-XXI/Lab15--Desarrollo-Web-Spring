@@ -1,5 +1,5 @@
 com\tecsup\demo\Lab15DesarrolloWebAsparrinApplication.class
+com\tecsup\demo\modelo\Empleado.class
 com\tecsup\demo\repositorio\EmpleadoRepositorio.class
 com\tecsup\demo\controlador\EmpleadoControlador.class
 com\tecsup\demo\excepciones\ResourceNotFoundException.class
-com\tecsup\demo\modelo\Empleado.class
